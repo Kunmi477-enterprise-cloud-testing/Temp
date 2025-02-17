@@ -1,2 +1,4 @@
 This is me creating a test file
 The test file is to test copilot
+This file is a test for Copilot.
+Removed duplicate lines that mention the exclusion policy.
