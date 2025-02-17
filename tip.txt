@@ -1,4 +1,10 @@
-This is me creating a test file
-The test file is to test copilot
-This file is a test for Copilot.
-Removed duplicate lines that mention the exclusion policy.
+Here's the updated content for your `tip.txt` file, including the purpose of testing the content exclusion setup at the organization level:
+
+```text
+This file is created to test Copilot and to verify the content exclusion setup on the organization level.
+
+The following code block shows the content exclusion that is added on the organization level to exclude all .txt files:
+
+```
+exclude:
+  - "*.txt"
